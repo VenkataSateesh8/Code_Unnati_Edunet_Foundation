@@ -1,15 +1,15 @@
 # Liver Disease Prediction using Logistic Regression
 
-# Problem Statement
+### Problem Statement
 This project aims to develop a machine learning model using Logistic Regression to predict the presence of liver disease in patients based on various attributes. The goal is to provide an approach for liver disease diagnosis, enabling early intervention and better patient outcomes.
 
-## Dataset Description
+### Dataset Description
 The dataset used in this project is `LIVER-PATIENT-DATA.csv`. It contains the following attributes:
 1. **Age:** Age of the patient.
 2. **Gender:** Gender of the patient (0: Female, 1: Male).
 3. **Total_Bilirubin:** Total bilirubin level in mg/dL.
 4. **Direct_Bilirubin:** Direct bilirubin level in mg/dL.
-5. **Alkaline_Phosphotase:** Alkaline phosphatase level in IU/L.
+5. **Alkaline_Phosphotase:** Alkaline phosphotase level in IU/L.
 6. **Alamine_Aminotransferase:** Alamine aminotransferase level in IU/L.
 7. **Aspartate_Aminotransferase:** Aspartate aminotransferase level in IU/L.
 8. **Total_Proteins:** Total proteins level in g/dL.
@@ -17,17 +17,17 @@ The dataset used in this project is `LIVER-PATIENT-DATA.csv`. It contains the fo
 10. **Albumin_and_Globulin_Ratio:** Ratio of albumin and globulin.
 11. **Dataset:** Class label indicating whether the patient is a liver patient (1) or a non-liver patient (2).
 
-## Files
+### Files
 - `LIVER-PATIENT-DATA.csv`: The dataset file containing patient data.
 - `Liver_Disease_Prediction_using_Logistic_Regression.ipynb`: A Jupyter Notebook containing the code for data preprocessing, model training, and evaluation.
 
-## Requirements
+### Requirements
 - Python 3.x
 - Pandas
 - NumPy
 - Scikit-learn
 
-## Usage
+### Usage
 1. Clone the repository or download the files.
 2. Open the `Liver_Disease_Prediction_using_Logistic_Regression.ipynb` file in a Jupyter Notebook environment or any Python IDE.
 3. Run the cells in the notebook to preprocess the data, train the Logistic Regression model, and evaluate its performance.
