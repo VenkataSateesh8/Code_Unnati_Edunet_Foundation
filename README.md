@@ -1,4 +1,4 @@
-# Liver_Disease_Prediction_using_Logistic_Regression
+# Liver Disease Prediction using Logistic Regression
 
 Problem Statement:
 This project aims to develop a machine learning model using Logistic Regression to predict the presence of liver disease in patients based on various attributes. The goal is to provide an approach for liver disease diagnosis, enabling early intervention and better patient outcomes.
