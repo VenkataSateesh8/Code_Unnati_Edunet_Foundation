@@ -33,5 +33,5 @@ The dataset used in this project is `LIVER-PATIENT-DATA.csv`. It contains the fo
 3. Run the cells in the notebook to preprocess the data, train the Logistic Regression model, and evaluate its performance.
 4. You can also modify the input data in the last cell of the notebook to predict whether a new patient has liver disease or not.
 
-## Results
+### Results
 The trained Logistic Regression model achieved an accuracy of 70% on the testing data. The classification report and confusion matrix are also provided in the notebook for further evaluation.
